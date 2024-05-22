@@ -4,6 +4,14 @@ venv/
 files/
 .cache/
 .streamlit/
-.DS_Store
 falcon.bin
 __pycache__
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
