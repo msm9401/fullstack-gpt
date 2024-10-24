@@ -8,6 +8,7 @@ falcon.bin
 __pycache__
 __pycache__/
 *.py[cod]
+.vscode/
 
 # Jupyter Notebook checkpoints
 **/.ipynb_checkpoints
